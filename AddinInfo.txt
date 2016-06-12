@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "POWER.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "POWER"
+[APPNAME]    : "@POWER"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "POWER"
+[MOD1_ICON]  : "eActivityIcon.bmp"
